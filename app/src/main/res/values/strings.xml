@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prework</string>
+    <string name="hello_world_my_name_is_harmony_i_love_art_and_learning_about_space">Hello world! My name is Harmony. I love art and learning about space.</string>
+    <string name="desc" />
+    <string name="say_hello">SAY HELLO!</string>
+</resources>
